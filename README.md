@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @RafaelBelo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RafaelBelo94/RafaelBelo94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá a todos, eu sou @Rafaelbelo94 e este é meu main de repositório de projetos pessoasis.
+- 👀 Gosto de automobilismo, futebol, jogos digitais, animes, geeks e outras nerdisses.
+- 🌱 Eu estou estundando Desenvolvimento de sistemas na instituição SENAI Ceará
+- 💞️ Estou focado em desenvolver aspectos pessoas para ser um exelente profissional em desenvolvimento WEB
+- 📫 Para contactarme estou aberto a criticas e sugestões, mande um email com o titulo do assunto para ti.raphaelbello@gmail.com
